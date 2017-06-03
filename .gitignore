@@ -1,0 +1,6 @@
+.idea/*
+!.idea/dictionaries
+
+rcfiles/*
+!rcfiles/sample.rc.dist
+!rcfiles/README.md

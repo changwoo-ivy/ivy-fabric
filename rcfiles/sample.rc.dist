@@ -1,0 +1,20 @@
+hosts = your_remote_host_domain 
+user  = your_remote_host_user 
+
+remote_url = your_remote_host_url
+
+remote_db_name = remote_database_name
+remote_db_user = remote_database_user
+remote_db_pass = remote_database_password
+
+remote_wp_path      = remote_wordpress_directory
+remote_sql_snapshot = temporary_sql_snapshot_file_path
+remote_wp_snapshot  = temporary_wordpress_snapshot_file_path
+
+local_db_name = local_database_name
+local_db_user = local_database_user
+local_db_pass = local_database_password
+
+local_wp_path      = local_wordpress_directory
+local_sql_snapshot = temporary_sql_snapshot_file_path
+local_wp_snapshot  = temporary_wordpress_snapshot_file_path
